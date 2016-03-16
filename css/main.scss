@@ -262,7 +262,24 @@ hr.article-divider{
     .date {
       margin-top: 5px;
       font-size: 19px;
+
+      #mc_embed_signup{
+
+        padding-top: 20px;
+      }
+
+      #mce-EMAIL {
+        padding: 10px;
+        color: black;
+      }
+
+      #mc-embedded-subscribe{
+        padding: 12px;
+        color: black;
+      }
+
     }
+
   }
   .slushhacks{
     position: absolute;
@@ -546,11 +563,11 @@ hr.article-divider{
   &.purewaste {
     background: url(../images/logos/purewaste_black.png)no-repeat center/80% auto,
        linear-gradient(#FFFFFF,#FFFFFF) center/$secondary-bg-size no-repeat;
-  } 
+  }
   &.fruitkit {
     background: url(../images/logos/fruitkit.png)no-repeat center/80% auto,
        center/$secondary-bg-size no-repeat;
-  } 
+  }
   &.uploadcare {
     background: url(../images/logos/uploadcare.png)no-repeat center/80% auto,
        center/$secondary-bg-size no-repeat;
@@ -596,10 +613,10 @@ hr.article-divider{
         height: auto;
 		width:70%;
     }
-	
+
 	&.tter {
 		height: 80%;
-		width: auto; 
+		width: auto;
     }
 }
 
