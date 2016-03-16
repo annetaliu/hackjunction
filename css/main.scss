@@ -259,6 +259,15 @@ hr.article-divider{
       font-family: 'Raleway';
       margin: 25px 0;
     }
+    
+    .junction-button {
+    	margin: 1px;
+    }
+    
+    .junction-button:hover {
+    	margin: 0px;
+    	border: 1px solid white;
+    }
     .date {
       margin-top: 5px;
       font-size: 19px;
