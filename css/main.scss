@@ -260,6 +260,17 @@ hr.article-divider{
       margin: 25px 0;
     }
     
+    .junction-button {
+    	border: 0px;
+    	margin: 1px;
+    }
+    
+    .junction-button:hover {
+    	border: 1px solid white;
+    	margin: 0px;
+    	
+    }
+    
     .date {
       margin-top: 5px;
       font-size: 19px;
