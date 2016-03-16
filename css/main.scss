@@ -264,7 +264,7 @@ hr.article-divider{
       font-size: 19px;
 
       #mc_embed_signup{
-
+        border: 0px solid black;
         padding-top: 20px;
       }
 
@@ -275,7 +275,9 @@ hr.article-divider{
 
       #mc-embedded-subscribe{
         padding: 12px;
-        color: black;
+        color: white;
+        background-color: #0c6c70;
+        border: 0px solid black;
       }
 
     }
